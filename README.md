@@ -9,7 +9,7 @@
 
 ### 𝙸 𝚔𝚗𝚘𝚠 𝚝𝚑𝚎𝚜𝚎 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜:
 
-[![My Languages](https://skills.thijs.gg/icons?i=js,html,css,php,c,cpp,mysql,py,pug,bash)](https://skills.thijs.gg)
+[![My Languages](https://skills.thijs.gg/icons?i=html,css,js,php,c,cpp,mysql,py,pug,bash)](https://skills.thijs.gg)
 
 ### 𝙰𝚗𝚍 𝚝𝚑𝚎𝚜𝚎 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜:
 

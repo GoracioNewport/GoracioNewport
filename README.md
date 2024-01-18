@@ -7,20 +7,12 @@
 
 
 
-### 𝙸 𝚔𝚗𝚘𝚠 𝚝𝚑𝚎𝚜𝚎 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜:
+### My main languages:
 
-[![My Languages](https://skills.thijs.gg/icons?i=html,css,js,php,c,cpp,mysql,py,pug,bash)](https://skills.thijs.gg)
+[![My Languages](https://skills.thijs.gg/icons?i=java,c,cpp,py,bash)](https://skills.thijs.gg)
 
-### 𝙰𝚗𝚍 𝚝𝚑𝚎𝚜𝚎 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜:
+### I also use these:
 
-[![My Techs](https://skills.thijs.gg/icons?i=linux,vim,git,vue,firebase,nginx,bootstrap,latex,fastapi,arduino,gamemakerstudio)](https://skills.thijs.gg)
-
-
-### 𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚜𝚝𝚊𝚝𝚜:
-[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=goracionewport&count_private=true&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goracionewport&hide=SourcePawn&theme=highcontrast&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
-
+[![My Techs](https://skills.thijs.gg/icons?i=spring,linux,vim,git,docker,nginx,latex,fastapi)](https://skills.thijs.gg)
 
 𝚑𝚊𝚟𝚎 𝚊 𝚗𝚒𝚌𝚎 𝚍𝚊𝚢! 
-
-:)

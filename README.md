@@ -13,4 +13,4 @@
 
 ### 𝙸 𝚊𝚕𝚜𝚘 𝚞𝚜𝚎 𝚝𝚑𝚎𝚜𝚎:
 
-[![My Techs](https://skills.thijs.gg/icons?i=spring,linux,vim,git,docker,nginx,latex,fastapi)](https://skills.thijs.gg)
+[![My Techs](https://skills.thijs.gg/icons?i=spring,linux,vim,git,docker,vuejs,mongo,postgres)](https://skills.thijs.gg)

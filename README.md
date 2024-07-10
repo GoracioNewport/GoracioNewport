@@ -9,8 +9,8 @@
 
 ### 𝙼𝚢 𝚖𝚊𝚒𝚗 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜:
 
-[![My Languages](https://skills.thijs.gg/icons?i=java,c,cpp,py,bash)](https://skills.thijs.gg)
+[![My Languages](https://skillicons.dev/icons?i=java,c,cpp,py,bash)](https://skillicons.dev)
 
 ### 𝙸 𝚊𝚕𝚜𝚘 𝚞𝚜𝚎 𝚝𝚑𝚎𝚜𝚎:
 
-[![My Techs](https://skills.thijs.gg/icons?i=spring,linux,vim,git,docker,vuejs,mongo,postgres)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=spring,linux,vim,git,docker,vuejs,mongo,postgres)](https://skillicons.dev)

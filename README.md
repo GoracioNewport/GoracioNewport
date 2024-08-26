@@ -5,7 +5,7 @@
 - Ex. 𝙱𝚊𝚌𝚔𝚎𝚗𝚍 intern 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚝 **𝚈𝚊𝚗𝚍𝚎𝚡** 
 - 𝙲𝚘-𝚏𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 **[𝙲𝚞𝚋𝚘𝚜𝚎𝚛𝚟𝚎𝚛 𝙴𝚗𝚝𝚎𝚛𝚝𝚊𝚒𝚗𝚖𝚎𝚗𝚝](https://cuboserver.net)**
 - **[𝙲𝚘𝚍𝚎𝚏𝚘𝚛𝚌𝚎𝚜](https://codeforces.com/profile/GoracioNewport?locale=en)** 𝚖𝚊𝚜𝚝𝚎𝚛 𝚛𝚊𝚗𝚔 (𝚁𝚊𝚝𝚒𝚗𝚐: 𝟷𝟽𝟹𝟻)
-- 𝙵𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗 **[𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖](https://t.me/ivantheglorious), [𝙻𝚒𝚗𝚔𝚎𝚍𝚒𝚗](https://linkedin.com/in/goracionewport)** 𝚘𝚛 **[𝙴𝚖𝚊𝚒𝚕 𝚖𝚎](mailto:goracionewport@gmail.com)**
+- 𝙵𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗 **[𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖](https://t.me/goracionewport), [𝙻𝚒𝚗𝚔𝚎𝚍𝚒𝚗](https://linkedin.com/in/goracionewport)** 𝚘𝚛 **[𝙴𝚖𝚊𝚒𝚕 𝚖𝚎](mailto:goracionewport@gmail.com)**
 
 ### 𝙼𝚢 𝚖𝚊𝚒𝚗 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜:
 
